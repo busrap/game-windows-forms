@@ -1,0 +1,19 @@
+C:\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\bin\Debug\SehirTahminEtmeOyunu.exe.config
+C:\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\bin\Debug\SehirTahminEtmeOyunu.exe
+C:\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\bin\Debug\SehirTahminEtmeOyunu.pdb
+C:\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.csprojResolveAssemblyReference.cache
+C:\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.Form1.resources
+C:\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.Properties.Resources.resources
+C:\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.csproj.GenerateResource.Cache
+C:\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.exe
+C:\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.pdb
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\bin\Debug\SehirTahminEtmeOyunu.exe.config
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\bin\Debug\SehirTahminEtmeOyunu.exe
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\bin\Debug\SehirTahminEtmeOyunu.pdb
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.Form1.resources
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.Properties.Resources.resources
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.csproj.GenerateResource.Cache
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.exe
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.pdb
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.csprojAssemblyReference.cache
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\SehirTahminEtmeOyunuu\SehirTahminEtmeOyunu\SehirTahminEtmeOyunu\obj\Debug\SehirTahminEtmeOyunu.csproj.CoreCompileInputs.cache
